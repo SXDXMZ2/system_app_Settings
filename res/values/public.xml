@@ -525,7 +525,7 @@
     <public type="xml" name="wifi_settings" id="0x7f050056" />
     <public type="xml" name="wireless_settings" id="0x7f050057" />
     <public type="xml" name="xperia_connectivity_settings" id="0x7f050058" />
-    <public type="xml" name="zoldyck" id="0x7f050059" />
+    <public type="xml" name="sxd" id="0x7f050059" />
     <public type="raw" name="media_volume" id="0x7f060000" />
     <public type="raw" name="tethering_help" id="0x7f060001" />
     <public type="raw" name="tethering_usb_help" id="0x7f060002" />
