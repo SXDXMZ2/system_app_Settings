@@ -1,5 +1,5 @@
 version: 2.0.0-Beta9
-apkFileName: evo.apk
+apkFileName: Settings.apk
 isFrameworkApk: false
 usesFramework:
   ids:
