@@ -1415,9 +1415,9 @@ Bazı uygulamalar, geliştiricileri tarafından güncellenene kadar çalışmaya
 
 Yakınlaştırdığınızda şunları yapabilirsiniz
 
-"<li><ul>"Kaydırma: İki veya daha fazla parmağınızı ekranda sürükleyin.
+"<ul><li>"Kaydırma: İki veya daha fazla parmağınızı ekranda sürükleyin.
 
-"<li>Yakınlaştırrma düzeyini ayarlama: İki veya daha fazla parmağınızı birbirine yaklaştırın veya uzaklaştırın.</li></ul></li>"
+"<li>Yakınlaştırrma düzeyini ayarlama: İki veya daha fazla parmağınızı birbirine yaklaştırın veya uzaklaştırın.</li></li></ul>"
 
 
 

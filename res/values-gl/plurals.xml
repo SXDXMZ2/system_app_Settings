@@ -25,7 +25,7 @@
         <item quantity="one">O contrasinal debe conter 1 díxito numérico como mínimo</item>
     </plurals>
     <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">O contrasinal debe conter &amp;amp;d símbolos especiais como mínimo</item>
+        <item quantity="other">O contrasinal debe conter &amp;amp;amp;amp;amp;d símbolos especiais como mínimo</item>
         <item quantity="one">O contrasinal debe conter 1 símbolo especial como mínimo</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">

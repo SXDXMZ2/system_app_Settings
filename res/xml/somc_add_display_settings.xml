@@ -15,4 +15,7 @@
     <com.sonymobile.settings.preference.RemovePreference settings:dependOnIsValidIntent="true" settings:targetKey="wifi_display">
         <intent android:targetPackage="com.sonymobile.tvout.wifidisplay" android:targetClass="com.sonymobile.tvout.wifidisplay.WfdStarterActivity" />
     </com.sonymobile.settings.preference.RemovePreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="intelligent_backlight" settings:dependOnIsValidIntent="true" settings:after="screen_timeout" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.intelligent.backlight" android:targetClass="com.sonymobile.intelligent.backlight.SmartBacklightGuidance" />
+    </com.sonymobile.settings.preference.IntentPreference>
 </PreferenceScreen>

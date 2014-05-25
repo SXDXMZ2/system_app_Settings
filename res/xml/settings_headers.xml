@@ -28,6 +28,11 @@
     <header android:icon="@drawable/ic_manufacturer" android:id="@id/manufacturer_settings">
         <intent android:action="com.android.settings.MANUFACTURER_APPLICATION_SETTING" />
     </header>
+    <header android:title="@string/zoldyck" />
+    <header android:icon="@drawable/ic_znxt" android:id="@id/zoldyck" android:title="@string/zoldyck" android:fragment="com.sonymobile.settings.GenericSettingsFragment">
+        <extra android:name="extra_after_id" android:value="data_usage_settings" />
+        <extra android:name="extra_fragment_preference_xml" android:value="zoldyck" />
+    </header>
     <header android:id="@id/personal_section" android:title="@string/header_category_personal" />
     <header android:icon="@drawable/ic_settings_location" android:id="@id/location_settings" android:title="@string/location_settings_title" android:fragment="com.android.settings.LocationSettings" />
     <header android:icon="@drawable/ic_settings_security" android:id="@id/security_settings" android:title="@string/security_settings_title" android:fragment="com.android.settings.SecuritySettings" />

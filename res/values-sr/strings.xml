@@ -1408,8 +1408,8 @@ Neke aplikacije možda neće funkcionisati dok je projektanti ne ažuriraju."</s
     <string name="accessibility_screen_magnification_summary">"Kada je ova funkcija uključena, možete da uvećavate i da umanjujete prikaz trostrukim dodirom na ekran.
 
 Dok ste u uvećanom prikazu, možete:
-"<li><ul>"da pomerate: Prevucite dva ili više prstiju preko ekrana.
-"<li>da prilagođavate nivo zumiranja: Spojite dva ili više prstiju ili ih raširite.</li></ul></li>"
+"<ul><li>"da pomerate: Prevucite dva ili više prstiju preko ekrana.
+"<li>da prilagođavate nivo zumiranja: Spojite dva ili više prstiju ili ih raširite.</li></li></ul>"
 
 Takođe možete privremeno da uvećate ono što vam je pod prstom trostrukim dodirom i zadržavanjem. U ovom uvećanom prikazu možete da prevlačite prst da biste istraživali različite delove ekrana. Podignite prst da biste se vratili u prethodni prikaz.
 

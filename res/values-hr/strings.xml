@@ -1413,9 +1413,9 @@ Neke aplikacije možda neće funkcionirati dok ih razvojni programeri ne ažurir
 
 Nakon povećanja prikaza možete sljedeće:
 
-"<li><ul>"kadrirati: povucite dva ili više prstiju preko zaslona
+"<ul><li>"kadrirati: povucite dva ili više prstiju preko zaslona
 
-"<li>prilagoditi razinu zumiranja: stisnite dva ili više prstiju ili ih raširite</li></ul></li>"
+"<li>prilagoditi razinu zumiranja: stisnite dva ili više prstiju ili ih raširite</li></li></ul>"
 
 
 

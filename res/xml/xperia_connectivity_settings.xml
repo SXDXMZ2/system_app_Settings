@@ -23,4 +23,7 @@
     <com.sonymobile.settings.preference.IntentPreference android:key="usb_settings" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
         <intent android:targetPackage="com.sonyericsson.usbux" android:targetClass="com.sonyericsson.usbux.settings.ConnectivitySettingsActivity" />
     </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="one-touch_setup" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.autopairing" android:targetClass="com.sonymobile.autopairing.AutoPairingActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
 </PreferenceScreen>

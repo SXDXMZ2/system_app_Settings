@@ -1415,9 +1415,9 @@ Előfordulhat, hogy egyes alkalmazások nem működnek addig, amíg a fejlesztő
 
 Nagyított állapotban:
 
-"<li><ul>"Pásztázhat: Két vagy több ujját húzza végig a képernyőn.
+"<ul><li>"Pásztázhat: Két vagy több ujját húzza végig a képernyőn.
 
-"<li>Módosíthatja a nagyítási szintet: Két ujját húzza össze vagy távolítsa el egymástól.</li></ul></li>"
+"<li>Módosíthatja a nagyítási szintet: Két ujját húzza össze vagy távolítsa el egymástól.</li></li></ul>"
 
 
 

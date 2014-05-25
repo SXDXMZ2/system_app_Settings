@@ -66,6 +66,7 @@
     <public type="drawable" name="wifi_signal_lock" id="0x7f0200de" />
     <public type="drawable" name="wifi_signal_open" id="0x7f0200df" />
     <public type="drawable" name="audio_ring_notif_vibrate" id="0x7f0200e0" />
+    <public type="drawable" name="logo" id="0x7f0200e1" />
     <public type="drawable" name="appwidget_bg_holo" id="0x7f020000" />
     <public type="drawable" name="appwidget_inner_focused_c_holo" id="0x7f020004" />
     <public type="drawable" name="appwidget_inner_focused_l_holo" id="0x7f020005" />
@@ -261,6 +262,7 @@
     <public type="drawable" name="stamina_list_action_info" id="0x7f0200cc" />
     <public type="drawable" name="stamina_list_bravia" id="0x7f0200cf" />
     <public type="drawable" name="stamina_list_xloud" id="0x7f0200d9" />
+    <public type="drawable" name="ic_znxt" id="0x7f0200e2" />
     <public type="drawable" name="APKTOOL_DUMMY_0061" id="0x7f020061" />
     <public type="drawable" name="APKTOOL_DUMMY_00d5" id="0x7f0200d5" />
     <public type="mipmap" name="ic_launcher_settings" id="0x7f030000" />
@@ -430,6 +432,7 @@
     <public type="layout" name="wifi_setup_custom_list_item_1" id="0x7f0400a5" />
     <public type="layout" name="wifi_status_test" id="0x7f0400a6" />
     <public type="layout" name="wifi_wps_dialog" id="0x7f0400a7" />
+    <public type="layout" name="logo" id="0x7f0400a8" />
     <public type="layout" name="access_point_category_for_setup_wizard_xl" id="0x7f040000" />
     <public type="layout" name="settings_top_level" id="0x7f040076" />
     <public type="layout" name="wifi_settings_for_setup_wizard_xl" id="0x7f0400a4" />
@@ -522,6 +525,7 @@
     <public type="xml" name="wifi_settings" id="0x7f050056" />
     <public type="xml" name="wireless_settings" id="0x7f050057" />
     <public type="xml" name="xperia_connectivity_settings" id="0x7f050058" />
+    <public type="xml" name="zoldyck" id="0x7f050059" />
     <public type="raw" name="media_volume" id="0x7f060000" />
     <public type="raw" name="tethering_help" id="0x7f060001" />
     <public type="raw" name="tethering_usb_help" id="0x7f060002" />
@@ -1198,6 +1202,7 @@
     <public type="id" name="vpn_create" id="0x7f080231" />
     <public type="id" name="vpn_lockdown" id="0x7f080232" />
     <public type="id" name="wifi_wps" id="0x7f080233" />
+    <public type="id" name="zoldyck" id="0x7f080234" />
     <public type="bool" name="has_dock_settings" id="0x7f090000" />
     <public type="bool" name="has_silent_mode" id="0x7f090001" />
     <public type="bool" name="has_powercontrol_widget" id="0x7f090002" />
@@ -3561,6 +3566,12 @@
     <public type="string" name="wifi_menu_auto_connect" id="0x7f0b08f8" />
     <public type="string" name="wifi_menu_disconnect" id="0x7f0b08f9" />
     <public type="string" name="wifi_show_simple_eap_info" id="0x7f0b08fa" />
+    <public type="string" name="cpu_control" id="0x7f0b08fe" />
+    <public type="string" name="cpu_control_summary" id="0x7f0b08ff" />
+    <public type="string" name="cpu_stats" id="0x7f0b0900" />
+    <public type="string" name="cpu_stats_summary" id="0x7f0b0901" />
+    <public type="string" name="cpu_setting_header" id="0x7f0b0902" />
+    <public type="string" name="zoldyck" id="0x7f0b0903" />
     <public type="string" name="bluetooth_sap_profile_summary_not_connected" id="0x7f0b08fb" />
     <public type="string" name="sim_change_failed_enable_sim_lock" id="0x7f0b08fc" />
     <public type="string" name="sim_lock_change_not_supported" id="0x7f0b08fd" />

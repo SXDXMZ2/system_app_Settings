@@ -1394,9 +1394,9 @@ Moguće je da neke aplikacije neće raditi dok ih njihovi programeri ne ažurira
 
 Kada je prikaz povećan, možete:
 
-"<li><ul>"Pomicati: povlačite dva ili više prstiju preko ekrana.
+"<ul><li>"Pomicati: povlačite dva ili više prstiju preko ekrana.
 
-"<li>Podešavati nivo zumiranja: približite dva ili više prstiju skupa ili ih razdvojite.</li></ul></li>"
+"<li>Podešavati nivo zumiranja: približite dva ili više prstiju skupa ili ih razdvojite.</li></li></ul>"
 
 
 
