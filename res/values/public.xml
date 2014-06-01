@@ -1202,7 +1202,7 @@
     <public type="id" name="vpn_create" id="0x7f080231" />
     <public type="id" name="vpn_lockdown" id="0x7f080232" />
     <public type="id" name="wifi_wps" id="0x7f080233" />
-    <public type="id" name="zoldyck" id="0x7f080234" />
+    <public type="id" name="sxd" id="0x7f080234" />
     <public type="bool" name="has_dock_settings" id="0x7f090000" />
     <public type="bool" name="has_silent_mode" id="0x7f090001" />
     <public type="bool" name="has_powercontrol_widget" id="0x7f090002" />
@@ -3571,7 +3571,7 @@
     <public type="string" name="cpu_stats" id="0x7f0b0900" />
     <public type="string" name="cpu_stats_summary" id="0x7f0b0901" />
     <public type="string" name="cpu_setting_header" id="0x7f0b0902" />
-    <public type="string" name="zoldyck" id="0x7f0b0903" />
+    <public type="string" name="sxd" id="0x7f0b0903" />
     <public type="string" name="bluetooth_sap_profile_summary_not_connected" id="0x7f0b08fb" />
     <public type="string" name="sim_change_failed_enable_sim_lock" id="0x7f0b08fc" />
     <public type="string" name="sim_lock_change_not_supported" id="0x7f0b08fd" />
