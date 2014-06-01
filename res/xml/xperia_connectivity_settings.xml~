@@ -12,10 +12,7 @@
         <intent android:targetPackage="com.sonymobile.tvout.wifidisplay" android:targetClass="com.sonymobile.tvout.wifidisplay.WfdStarterActivity" />
     </com.sonymobile.settings.preference.IntentPreference>
     <com.sonymobile.settings.preference.IntentPreference android:key="media_server_settings" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
-        <intent android:action="com.sonyericsson.dlna.intent.action.MEDIA_SERVER_SETTING" />
-    </com.sonymobile.settings.preference.IntentPreference>
-    <com.sonymobile.settings.preference.IntentPreference android:key="seamless_tethering" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
-        <intent android:targetPackage="com.sonymobile.seamlesstether" android:targetClass="com.sonymobile.seamlesstether.SeamlessTetheringActivity" />
+        <intent android:targetPackage="com.sonyericsson.dlna" android:action="com.sonymobile.dlna.intent.action.START_DMS_ACTIVITY" android:targetClass="com.sonyericsson.dlna.server.DMSMainActivity" />
     </com.sonymobile.settings.preference.IntentPreference>
     <com.sonymobile.settings.preference.IntentPreference android:key="playstation_connectivity" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
         <intent android:targetPackage="com.sony.nfx.service.WirelessControllerManagerService" android:targetClass="com.sonymobile.dualshock.manager.app.SettingsActivity" />
@@ -25,5 +22,8 @@
     </com.sonymobile.settings.preference.IntentPreference>
     <com.sonymobile.settings.preference.IntentPreference android:key="usb_settings" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
         <intent android:targetPackage="com.sonyericsson.usbux" android:targetClass="com.sonyericsson.usbux.settings.ConnectivitySettingsActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="one-touch_setup" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.autopairing" android:targetClass="com.sonymobile.autopairing.AutoPairingActivity" />
     </com.sonymobile.settings.preference.IntentPreference>
 </PreferenceScreen>
