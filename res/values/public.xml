@@ -436,6 +436,8 @@
     <public type="layout" name="access_point_category_for_setup_wizard_xl" id="0x7f040000" />
     <public type="layout" name="settings_top_level" id="0x7f040076" />
     <public type="layout" name="wifi_settings_for_setup_wizard_xl" id="0x7f0400a4" />
+    <public type="layout" name="manage_autostarts" id="0x7f0400a9" />
+    <public type="layout" name="manage_autostarts_item" id="0x7f0400aa" />
     <public type="xml" name="accessibility_settings" id="0x7f050000" />
     <public type="xml" name="account_sync_settings" id="0x7f050001" />
     <public type="xml" name="add_account_settings" id="0x7f050002" />
@@ -1203,6 +1205,7 @@
     <public type="id" name="vpn_lockdown" id="0x7f080232" />
     <public type="id" name="wifi_wps" id="0x7f080233" />
     <public type="id" name="sxd" id="0x7f080234" />
+    <public type="id" name="appName" id="0x7f080236" />
     <public type="bool" name="has_dock_settings" id="0x7f090000" />
     <public type="bool" name="has_silent_mode" id="0x7f090001" />
     <public type="bool" name="has_powercontrol_widget" id="0x7f090002" />
@@ -3575,6 +3578,15 @@
     <public type="string" name="bluetooth_sap_profile_summary_not_connected" id="0x7f0b08fb" />
     <public type="string" name="sim_change_failed_enable_sim_lock" id="0x7f0b08fc" />
     <public type="string" name="sim_lock_change_not_supported" id="0x7f0b08fd" />
+    <public type="string" name="autostarts_title" id="0x7f0b0904" />
+    <public type="string" name="autostarts_allowed" id="0x7f0b0905" />
+    <public type="string" name="autostarts_prohibited" id="0x7f0b0906" />
+    <public type="string" name="autostarts_allow_progress_msg" id="0x7f0b0907" />
+    <public type="string" name="autostarts_prohibit_progress_msg" id="0x7f0b0908" />
+    <public type="string" name="autostarts_empty_msg" id="0x7f0b0909" />
+    <public type="string" name="autostarts_optimize_empty_msg" id="0x7f0b090a" />
+    <public type="string" name="autostarts_optimize_btn_title" id="0x7f0b090b" />
+    <public type="string" name="autostarts_all_btn_title" id="0x7f0b090c" />
     <public type="integer" name="maximum_user_dictionary_word_length" id="0x7f0c0000" />
     <public type="integer" name="keyguard_appwidget_picker_cols" id="0x7f0c0001" />
     <public type="dimen" name="device_memory_usage_button_width" id="0x7f0d0000" />
